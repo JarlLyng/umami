@@ -38,7 +38,7 @@ cd umami
 pnpm install
 ```
 
-### Configure Umami 
+### Configure Umami
 
 Create an `.env` file with the following:
 
