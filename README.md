@@ -60,7 +60,7 @@ pnpm run build
 
 The build step will create tables in your database if you are installing for the first time. It will also create a login user with username **admin** and password **umami**.
 
-> **Note:** When deploying to Vercel with Supabase, ensure your `DATABASE_URL` environment variable is set in Vercel's project settings.
+> **Note:** When deploying to Vercel with Supabase, ensure your `DATABASE_URL` environment variable is set in Vercel's project settings. The connection string should use Supabase's connection pooling (port 6543).
 
 ### Start the Application
 
