@@ -5,6 +5,10 @@
 <h1 align="center">Umami</h1>
 
 <p align="center">
+  <a href="https://madebyhuman.iamjarl.com"><img src="https://madebyhuman.iamjarl.com/badges/loop-white.svg" alt="Human in the Loop"></a>
+</p>
+
+<p align="center">
   <i>Umami is a simple, fast, privacy-focused alternative to Google Analytics.</i>
 </p>
 
